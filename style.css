@@ -1,0 +1,63 @@
+
+
+/* CSS dasar untuk footer */
+footer {
+  background-color: #fff;
+  padding: 40px 0;
+  width:1000px;
+}
+
+.container {
+  width: 1000px;
+  margin: 0 auto;
+  background-color:#fff;
+}
+
+h4 {
+  font-size: 18px;
+  font-weight: bold;
+  margin-bottom: 20px;
+}
+
+ul.list-unstyled {
+  padding-left: 0;
+  list-style: none;
+}
+
+ul.list-unstyled li a {
+  color: #666666;
+  text-decoration: none;
+}
+
+ul.list-unstyled li a:hover {
+  color: #333333;
+}
+
+.footer-bottom {
+  background-color: #fff;
+  padding: 20px 0;
+  width:1000px;
+  height:400px;
+}
+
+.footer-bottom p {
+  margin: 0;
+  color: #666666;
+}
+
+ul.list-inline.social-buttons li {
+  display: inline-block;
+  margin-right: 10px;
+}
+
+ul.list-inline.social-buttons li:last-child {
+  margin-right: 0;
+}
+
+ul.list-inline.social-buttons li a {
+  color: #333333;
+  border-radius: 50%;
+  width: 40px;
+  height: 40px;
+  line-height: 40px;
+  display: inline-block;
